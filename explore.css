@@ -1,0 +1,25 @@
+header{
+
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.navbar{
+   
+        text-decoration: none;
+        color: black; 
+        font-weight: normal;
+        background-color: rgba(238, 245, 240, 0.873);
+}
+.navbar .active {
+    font-weight: bold; 
+}
+.Districts{
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.cardimg{
+   min-height:200px;
+}

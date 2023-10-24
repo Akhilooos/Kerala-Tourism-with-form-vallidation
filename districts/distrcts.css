@@ -1,0 +1,31 @@
+header{
+
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.navbar{
+   
+        text-decoration: none;
+        color: black; 
+        font-weight: normal;
+        background-color: rgba(238, 245, 240, 0.873);
+}
+.navbar .active {
+    font-weight: bold; 
+}
+.Description{
+    margin-top: 100px;
+    margin-left: 25px;
+}
+.Placetovisit{
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.cardimg {
+    width: 200px;
+    height: 200px; 
+    object-fit: cover; 
+}

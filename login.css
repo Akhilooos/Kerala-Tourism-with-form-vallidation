@@ -1,0 +1,42 @@
+header{
+
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.navbar{
+   
+        text-decoration: none;
+        color: black; /* Black text color for all links */
+        font-weight: normal; /* Regular font weight for all links */
+        background-color: rgba(238, 245, 240, 0.873);
+}
+.navbar .active {
+    font-weight: bold; /* Bold font weight for the active link */
+}
+.loginform{
+    margin-top: 200px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 20px;
+}
+.strength {
+    font-weight: bold;
+}
+
+.strong {
+    color: green;
+}
+
+.medium {
+    color: orange;
+}
+
+.poor {
+    color: red;
+}
+.formbtn{
+    margin-top: 10px;
+    
+}

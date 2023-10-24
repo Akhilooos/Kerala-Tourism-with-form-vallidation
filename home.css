@@ -1,0 +1,81 @@
+
+header{
+
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.navbar{
+   
+        text-decoration: none;
+        color: black; /* Black text color for all links */
+        font-weight: normal; /* Regular font weight for all links */
+        background-color: rgba(238, 245, 240, 0.873);
+}
+.navbar .active {
+    font-weight: bold; /* Bold font weight for the active link */
+}
+
+.thingstodo{ 
+    margin-top: 25px;
+    margin-bottom: 30px;
+
+}
+.cardimg{
+    height: 200px;
+    width: 200px;
+}
+.Whatshappening{
+    margin-top: 25px;
+    margin-bottom: 30px;
+
+}
+.carosel2{
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.car2img{
+    height: 300px;
+    width: 400px;
+    min-height: 300px;
+    min-height: 300px;
+}
+.palnyourtrip{
+    margin-top: 25px;
+    margin-bottom: 30px;
+
+}
+.planimg{
+    height: 100px;
+    width: 100px;
+}
+.planyourtripimg
+{
+    margin-left: 150px;
+    margin-right: 150px; 
+}
+.iconimg{
+    width: 200px;
+    height: 200px;
+}
+.Connectwithus{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.connect{
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+.conimg{
+    width: 50px;
+    height: 50px;
+}
+.conimg3{
+    width: 70px;
+    height: 50px;
+}
+
+
